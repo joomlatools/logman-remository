@@ -20,9 +20,11 @@ You can install this package using [Composer](https://getcomposer.org/). Create 
 
 Run composer install.
 
-### Phing
+### Package
 
-For convenience, a [phing](http://www.phing.info/) script for building the package is also available under the `/scripts/build` folder of the repo.
+For downloading an installable package just make use of the **Download ZIP** button located in the right sidebar of this page.
+
+After downloading the package, you may install this plugin using the Joomla! extension manager.
 
 ## Usage
 
