@@ -1,0 +1,7 @@
+{
+    "name": "joomlatools/plg_logman_remository",
+    "type": "joomla-extension",
+    "require": {
+        "nooku/installer": "*"
+    }
+}
