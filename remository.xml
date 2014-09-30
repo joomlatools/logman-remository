@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="3.0" group="logman" method="upgrade" overwrite="true">
+    <identifier>plg:logman.remository</identifier>
+    <name>plg_logman_remository</name>
+    <author>Joomlatools</author>
+    <creationDate>September 2014</creationDate>
+    <copyright>Copyright (C) 2011 - 2014 Timble CVBA (http://www.timble.net)</copyright>
+    <license>GNU GPLv3 - http://www.gnu.org/licenses/gpl.html</license>
+    <authorEmail>support@joomlatools.com</authorEmail>
+    <authorUrl>www.joomlatools.com</authorUrl>
+    <version>2.0.0</version>
+    <description>PLG_LOGMAN_REMOSITORY_DESC</description>
+
+    <files>
+        <filename plugin="remository">remository.php</filename>
+        <folder>activity</folder>
+        <folder>language</folder>
+    </files>
+
+    <config>
+        <fields name="params" />
+    </config>
+</extension>
