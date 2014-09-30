@@ -1,6 +1,23 @@
 {
     "name": "joomlatools/plg_logman_remository",
     "type": "joomla-extension",
+    "license": "GPLv3",
+    "description": "Handles logging of Remository events",
+    "keywords": [
+        "joomla",
+        "extension",
+        "plugins",
+        "logman",
+        "remository"
+    ],
+    "homepage": "https://github.com/joomlatools/logman-remository",
+    "authors": [
+        {
+            "name": "Joomlatools",
+            "email": "info@joomlatools.net",
+            "homepage": "http://www.joomlatools.com"
+        }
+    ],
     "require": {
         "nooku/installer": "*"
     }
