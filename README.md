@@ -1,7 +1,7 @@
 LOGman Remository plugin
 ========================
 
-[LOGman](http://www.joomlatools.com/logman) Remository plugin is a plugin for integrating [Remository](http://remository.com/) with LOGman.
+Plugin for integrating [Remository](http://remository.com/) with LOGman. [LOGman](http://joomlatools.com/logman) is a user analytics and audit trail solution for Joomla.
 
 ## Installation
 
