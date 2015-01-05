@@ -49,6 +49,6 @@ class PlgLogmanRemositoryActivityRemository extends ComLogmanModelEntityActivity
                                $this->getMetadata()->repnum
         ));
 
-        return parent::_objectConfig($config);
+        parent::_objectConfig($config);
     }
 }
