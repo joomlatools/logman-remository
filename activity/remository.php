@@ -44,9 +44,9 @@ class PlgLogmanRemositoryActivityRemository extends ComLogmanModelEntityActivity
     protected function _objectConfig(KObjectConfig $config)
     {
         $config->append(array(
-            'objectSubtype' => 'Remository',
-            'url'           => 'option=com_' . $this->package . '&act=files&task=edit&cfid=' . $this->row . '&repnum=' .
-                               $this->getMetadata()->repnum
+            'subtype' => array('object' => true, 'objectName' => 'Remository'),
+            'url'     => 'option=com_' . $this->package . '&act=files&task=edit&cfid=' . $this->row . '&repnum=' .
+                         $this->getMetadata()->repnum
         ));
 
         parent::_objectConfig($config);
