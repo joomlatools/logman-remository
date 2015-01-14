@@ -11,6 +11,8 @@
     <version>2.0.1</version>
     <description>PLG_LOGMAN_REMOSITORY_DESC</description>
 
+    <scriptfile>install.php</scriptfile>
+
     <files>
         <filename plugin="remository">remository.php</filename>
         <folder>activity</folder>
