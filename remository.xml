@@ -15,6 +15,7 @@
 
     <files>
         <filename plugin="remository">remository.php</filename>
+        <filename>version.php</filename>
         <folder>activity</folder>
         <folder>language</folder>
     </files>
