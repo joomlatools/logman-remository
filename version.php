@@ -14,7 +14,7 @@
  */
 class PlgLogmanRemositoryVersion extends KObject
 {
-    const VERSION = '2.0.1';
+    const VERSION = '2.0.2';
 
     /**
      * The LOGman API version used by the plugin. i.e. the LOGman version that got used for developing this plugin.
