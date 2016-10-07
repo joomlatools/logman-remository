@@ -22,4 +22,16 @@
     <config>
         <fields name="params" />
     </config>
+
+    <resources>
+        <resource name="file">
+            <actions>
+                <action>add</action>
+                <action>edit</action>
+                <action>delete</action>
+                <action>download</action>
+                <action>comment</action>
+            </actions>
+        </resource>
+    </resources>
 </extension>
