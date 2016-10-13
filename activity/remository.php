@@ -28,8 +28,8 @@ class PlgLogmanRemositoryActivityRemository extends ComLogmanModelEntityActivity
     public function getPropertyImage()
     {
         $images = array(
-            'download' => 'icon-download',
-            'comment'  => 'icon-comment'
+            'download' => 'k-icon-data-transfer-download',
+            'comment'  => 'k-icon-comment-square'
         );
 
         if (in_array($this->verb, array_keys($images))) {
