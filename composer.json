@@ -1,7 +1,7 @@
 {
     "name": "joomlatools/logman-remository",
     "type": "joomlatools-composer",
-    "license": "GPLv3",
+    "license": "GPL-3.0-only",
     "description": "Handles logging of Remository events",
     "keywords": [
         "joomla",
